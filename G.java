@@ -27,8 +27,4 @@ public class G implements K, E {
     public void ab() {
         System.out.println("\n");
     }
-
-    public long dd() {
-        return 99999;
-    }
 }

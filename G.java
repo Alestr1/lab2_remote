@@ -31,4 +31,8 @@ public class G implements K, E {
     public long dd() {
         return 99999;
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }

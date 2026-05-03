@@ -51,4 +51,8 @@ public class G extends null implements K, E {
     public double ad() {
         return 9.11;
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
 }

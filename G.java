@@ -39,4 +39,8 @@ public class G implements K, E {
     public int ae() {
         return java.lang.Math.abs(-6);
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }

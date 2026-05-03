@@ -43,4 +43,8 @@ public class G implements K, E {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
 }

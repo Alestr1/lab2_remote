@@ -11,4 +11,8 @@ public class K extends null {
     public byte oo() {
         return 3;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }

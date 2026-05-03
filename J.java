@@ -11,4 +11,8 @@ public class J extends null {
     public int cc() {
         return 39;
     }
+
+    public long ac() {
+        return 111;
+    }
 }

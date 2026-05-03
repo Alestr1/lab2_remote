@@ -67,4 +67,8 @@ public class G extends null implements K, E {
     public Object rr() {
         return null;
     }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
 }

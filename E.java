@@ -7,4 +7,8 @@ public class E extends null {
     public int ae() {
         return java.lang.Math.abs(-7);
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }

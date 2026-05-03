@@ -63,4 +63,8 @@ public class G extends null implements K, E {
     public int cc() {
         return 39;
     }
+
+    public Object rr() {
+        return null;
+    }
 }

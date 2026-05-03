@@ -7,4 +7,8 @@ public class K extends null {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public byte oo() {
+        return 3;
+    }
 }
